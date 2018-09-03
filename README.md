@@ -9,6 +9,11 @@ The objective : Develop the national Bank project (prjWin_NationalBank_Rm) with 
 
 [How to connect C# to SQL](https://www.youtube.com/watch?v=Et2khGnrIqc)
 
+
+ Bank Data Base.
+
+![Bank Data Base](/img/DE_NBank.png "Bank Data Base")
+
 ## Getting started
 
 A bank has several agencies spread over the Quebec territory. A bank is characterized by the name of its director, 
