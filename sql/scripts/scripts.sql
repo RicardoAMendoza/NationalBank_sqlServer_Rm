@@ -62,3 +62,12 @@ call sp_save_employ_area(9,'INV');
 call sp_save_employ_area(10,'SAV');
 call sp_save_employ_area(11,'SAV');
 call sp_save_employ_area(12,'SAV');
+
+-- sp_save_accounts
+call sp_save_accounts(2,'UA2UA2',2999.00,2,2,1,0,'Unpaid account',0.12,2000,0,2);
+call sp_save_accounts(3,'UA3UA3',4999.99,3,3,1,0,'Unpaid account',0.12,2000,0,0);
+call sp_save_accounts(4,'UA4UA4',10000.99,5,5,2,0,'Unpaid account',0.12,2000,0,1);
+
+
+
+
