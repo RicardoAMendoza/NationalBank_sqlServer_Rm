@@ -9,6 +9,8 @@ The objective : Develop the national Bank project (prjWin_NationalBank_Rm) with 
 
 [How to connect C# to SQL](https://www.youtube.com/watch?v=Et2khGnrIqc)
 
+[C# Databases](https://www.youtube.com/watch?v=OdDkFPO_nto)
+
 
  Bank Data Base.
 
