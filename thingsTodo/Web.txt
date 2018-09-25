@@ -48,5 +48,10 @@ C:\SQLServer2017Media\Developer_ENU
 INSTALLATION RESOURCES FOLDER
 C:\Program Files\Microsoft SQL Server\140\SSEI\Resources
 
-SQL ADMINISTRATORS
+SQL ADMINISTRATORS (it is going to be used)
 RICARDOMENDOZA\Ricardo Mendoza
+
+NT Service\MSSQLSERVER
+
+Database default locations
+Data : C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\
