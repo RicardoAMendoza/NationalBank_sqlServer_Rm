@@ -104,7 +104,8 @@ lastName varchar (45) null default null,
 email varchar (45) null default null,
 img varchar (45) null default null,
 salary decimal (22,6) null default null,
-primary key (iddirector),
+idbank INT NOT NULL,
+primary key (iddirector,idbank),
 )
 
 --idbank int not null,

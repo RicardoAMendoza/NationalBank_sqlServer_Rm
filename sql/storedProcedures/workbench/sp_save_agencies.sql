@@ -3,8 +3,8 @@ in aidagencies int(11),
 in aagencyNumber varchar(45),
 in aname varchar(45),
 in aaddress varchar(45),
-in aidbank varchar(45),
-in aidtdirectorAgencie varchar(45)
+in aidbank int(11),
+in aidtdirectorAgencie int(11)
 )
 BEGIN
 
