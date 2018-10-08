@@ -13,16 +13,18 @@ The objective : Develop the national Bank project (prjWin_NationalBank_Rm) with 
 
 [1.- SQL Server Developer](https://www.microsoft.com/en-ca/sql-server/sql-server-2017-editions#CP_StickyNav_1)
 
-[1.- SQL Server Developer](https://www.microsoft.com/en-ca/sql-server/sql-server-2017-editions#CP_StickyNav_1)
 
-
-Bank Data Base : Workench
+## Bank Data Base : Workench
 
 ![Bank Data Base](/img/DE_NBank.png "Bank Data Base")
 
-Bank Data Base : SQL Server
+
+
+## Bank Data Base : SQL Server
 
 ![Bank Data Base](/img/DE_NBank_sqlserver.png "Bank Data Base")
+
+
 
 ## Getting started
 

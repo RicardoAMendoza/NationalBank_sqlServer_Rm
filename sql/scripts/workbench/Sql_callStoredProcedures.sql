@@ -32,21 +32,21 @@ call sp_save_employee(0,'E11E11','Brack','Obama','brand.png','1999-01-12',3);
 call sp_save_employee(0,'E12E12','Benoit','Fracoise','francoise.png','1998-04-03',3);
 
 -- sp_save_client
-call sp_save_client(0,'C1C1','Bill','Gates','gates.png','3540 Masson','123456','windows',1,1);
-call sp_save_client(0,'C2C2','Steve','Jobs','jobs.png','148 Cousineau','123457','apple',1,2);
-call sp_save_client(0,'C3C3','Oprah','Winfreh','winfreh.png','3030 Hochelaga','123458','apple',1,3);
+call sp_save_client(0,'C1C1','Bill','Gates','gates@microsoft.com','gates.png','3540 Masson','123456','windows',1,1);
+call sp_save_client(0,'C2C2','Steve','Jobs','jobs@apple.com','jobs.png','148 Cousineau','123457','apple',1,2);
+call sp_save_client(0,'C3C3','Oprah','Winfreh','oprah@google.com','winfreh.png','3030 Hochelaga','123458','apple',1,3);
 
-call sp_save_client(0,'C5C5','Salvador','Dali','dali.png','1545 La Jounnesse','123459','pintor',2,4);
-call sp_save_client(0,'C4C4','Rosa','Huerta','huerta.png','227 Belanger','123469','unix',2,5);
-call sp_save_client(0,'C6C6','Wendy','Savala','savala.png','3030 Hochelaga','123479','cpp',2,6);
+call sp_save_client(0,'C5C5','Salvador','Dali','dali@google.com','dali.png','1545 La Jounnesse','123459','pintor',2,4);
+call sp_save_client(0,'C4C4','Rosa','Huerta','huerta@google.com','huerta.png','227 Belanger','123469','unix',2,5);
+call sp_save_client(0,'C6C6','Wendy','Savala','savala@google.com','savala.png','3030 Hochelaga','123479','cpp',2,6);
 
-call sp_save_client(0,'C7C7','Mark','Zurembek','zurembek.png','616 Place Brazeau','123489','facebook',3,10);
-call sp_save_client(0,'C8C8','Antonio','Maya','maya.png','316 Chilpa','123499','alfonso13',3,11);
-call sp_save_client(9,'C9C9','Itzel','Alvaro','alvaro.png','527 Alexander','123599','quimica',3,12);
+call sp_save_client(0,'C7C7','Mark','Zurembek','mark@facebook.com','zurembek.png','616 Place Brazeau','123489','facebook',3,10);
+call sp_save_client(0,'C8C8','Antonio','Maya','maya@google.com','maya.png','316 Chilpa','123499','alfonso13',3,11);
+call sp_save_client(9,'C9C9','Itzel','Alvaro','alvaro@google.com','alvaro.png','527 Alexander','123599','quimica',3,12);
 
-call sp_save_client(0,'C10C10','Fanny','Santos','santos.png','333 Saint-Croax','123699','veracruz',4,7);
-call sp_save_client(0,'C11C11','Manuel','Brizuela','brizuela.png','148 Cousineau','123799','construccion',4,8);
-call sp_save_client(0,'C12C12','Pedro','Espana','alvaro.png','555 Tacherau','123899','soldadura',4,9);
+call sp_save_client(0,'C10C10','Fanny','Santos','santos@google.com','santos.png','333 Saint-Croax','123699','veracruz',4,7);
+call sp_save_client(0,'C11C11','Manuel','Brizuela','brizuela@google.com','brizuela.png','148 Cousineau','123799','construccion',4,8);
+call sp_save_client(0,'C12C12','Pedro','Espana','espana@google.com','alvaro.png','555 Tacherau','123899','soldadura',4,9);
 
 -- sp_save_area
 call sp_save_area('FIN','Finances');
